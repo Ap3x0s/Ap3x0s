@@ -14,7 +14,7 @@ Building production web applications, services, and sites from scratch. Telegram
 ## 🛠️ My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,tailwind,nodejs,fastapi,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,csharp,react,nextjs,vite,tailwind,nodejs,express,fastify,fastapi,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=10" />
 </p>
 
 **Languages:** TypeScript, JavaScript, Python, C#, C++, SQL  
@@ -32,23 +32,25 @@ Building production web applications, services, and sites from scratch. Telegram
   <a href="https://github.com/heroui-inc/heroui"><img src="./assets/skills/heroui.svg" height="30" alt="HeroUI"></a>
   <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="Superpowers"></a>
   <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/skills/phosphor.svg" height="30" alt="Phosphor Icons"></a>
-  <a href="https://vitejs.dev"><img src="./assets/skills/vite.svg" height="30" alt="Vite"></a>
   <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
   <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
 </p>
 
 ---
 
-## 🎯 What I Do
+## 🎯 About Me
 
-- **Production web apps & services** — full cycle from MVP to live deployment with monitoring
-- **Telegram Mini Apps** — TMA development with payments (Telegram Stars), real-time updates, analytics
-- **VPN infrastructure** — server automation, client provisioning, Paramiko SSH scripting, zero-downtime deploys
-- **Infrastructure automation** — database migrations, deployment pipelines, monitoring setup
-- **Design systems** — custom component libraries, design tokens, WCAG 2.1 AA compliance
-- **Real-time architecture** — Socket.io, Redis, message queues, distributed state management
-- **Voice AI integration** — speech recognition, offline models, GPU acceleration
-- **Full-stack refactoring** — performance optimization, code quality, architectural improvements
+I'm a full-stack developer passionate about crafting flawless products that solve real problems. Learning and understanding something new — that's what drives me. Growth isn't optional, it's everything.
+
+I'm genuinely passionate about technology. The entire tech ecosystem fascinates me — from infrastructure and backend systems to sleek, thoughtful design. I love the scale of it all, the complexity, the possibility of creating something that impacts real people. There's something beautiful about automating away the mundane and building systems that just work.
+
+I love the entire journey from idea to production. There's something magical about watching a concept transform into a real, breathing product — the design coming to life, the backend handling real traffic, security and infrastructure working in harmony. I'm fascinated by how all these pieces fit together, and I love being part of that process. It's not just about the work, it's about witnessing the vision become reality.
+
+I genuinely enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team — communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who genuinely care — not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion — that's what makes it all matter.
+
+My north star? Becoming a CTO, Security Engineer, or DevSecOps leader — someone who shapes technical vision and keeps systems secure and performant at scale.
+
+Always learning. Always shipping. Always grinding.
 
 ---
 
