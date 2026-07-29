@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Evgeniy (Ap3x0)
+# Hey, I'm Ap3x0
 
 **Full-Stack Developer** | **19 y.o.** | **4 years shipping code** | 
 
@@ -25,13 +25,11 @@ Building production web applications, services, and sites from scratch. Telegram
 
 <p align="center">
   <a href="https://github.com/heroui-inc/heroui"><img src="./assets/HeroUI.jfif" height="30" alt="HeroUI"></a>
-  <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="Superpowers"></a>
   <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/Phosphor-Icons.png" height="30" alt="Phosphor Icons"></a>
+  <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="SuperP"></a>
   <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
   <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
 </p>
-
----
 
 ## 🎯 About Me
 
@@ -47,11 +45,11 @@ My north star? Becoming a CTO, Security Engineer, or DevSecOps leader — someon
 
 Always learning. Always shipping. Always grinding.
 
-## 💬 Languages
+💬 Languages
 
 Русский (Native) · English (Fluent) · Tech stack speaks for itself
 
-## 🔗 Connect
+🔗 Connect
 
 Open for collaborations, interesting projects, and dev community engagement.
 
