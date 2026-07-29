@@ -21,17 +21,12 @@ Building production web applications, services, and sites from scratch. Telegram
 **Frontend:** React 19, Next.js 16, Vite 8, Tailwind CSS 4, Framer Motion  
 **Backend:** Node.js (Fastify, Express), FastAPI, Prisma ORM, PostgreSQL, SQLite, Redis, Supabase  
 **Real-time:** Socket.io, WebSocket, BullMQ  
-**Infrastructure:** Docker, systemd, Railway, Vercel, SSH automation (Paramiko)  
-**Specialty:** Telegram Mini Apps (Grammy, TWA SDK), VPN infrastructure, Design systems, Voice AI  
-
----
-
-## 🚀 Using
+**Infrastructure:** Docker, systemd, Railway, Vercel
 
 <p align="center">
-  <a href="https://github.com/heroui-inc/heroui"><img src="./assets/skills/heroui.svg" height="30" alt="HeroUI"></a>
+  <a href="https://github.com/heroui-inc/heroui"><img src="./assets/HeroUI.jfif" height="30" alt="HeroUI"></a>
   <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="Superpowers"></a>
-  <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/skills/phosphor.svg" height="30" alt="Phosphor Icons"></a>
+  <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/Phosphor-Icons.png" height="30" alt="Phosphor Icons"></a>
   <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
   <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
 </p>
@@ -52,8 +47,6 @@ My north star? Becoming a CTO, Security Engineer, or DevSecOps leader — someon
 
 Always learning. Always shipping. Always grinding.
 
----
-
 ## 💬 Languages
 
 Русский (Native) · English (Fluent) · Tech stack speaks for itself
@@ -61,6 +54,4 @@ Always learning. Always shipping. Always grinding.
 ## 🔗 Connect
 
 Open for collaborations, interesting projects, and dev community engagement.
-
-**Discord** (ap3x0.) · **Email** — evgenykantor@yandex.ru
 
