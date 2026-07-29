@@ -14,7 +14,7 @@ Building production web applications, services, and sites from scratch. Telegram
 ## 🛠️ My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,csharp,react,nextjs,vite,tailwind,nodejs,express,fastify,fastapi,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,vite,tailwind,nodejs,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=8" />
 </p>
 
 **Languages:** TypeScript, JavaScript, Python, C#, C++, SQL  
