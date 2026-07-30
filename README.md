@@ -33,13 +33,13 @@ Building production web applications, services, and sites from scratch. Telegram
 
 ## 🎯 About Me
 
-I'm a full-stack developer passionate about crafting flawless products that solve real problems. Learning and understanding something new — that's what drives me. Growth isn't optional, it's everything.
+I'm a full-stack developer passionate about crafting flawless products that solve real problems. Learning and understanding something new - that's what drives me. Growth isn't optional, it's everything.
 
-I'm passionate about technology in all its forms — from infrastructure and backend systems to sleek, thoughtful design. The entire ecosystem fascinates me: the scale, the complexity, the possibility of creating something that impacts real people. I love the entire journey from idea to production, watching a concept transform into a real, breathing product as the design comes to life, the backend handles real traffic, and security and infrastructure work in harmony.
+I'm passionate about technology in all its forms - from infrastructure and backend systems to sleek, thoughtful design. The entire ecosystem fascinates me: the scale, the complexity, the possibility of creating something that impacts real people. I love the entire journey from idea to production, watching a concept transform into a real, breathing product as the design comes to life, the backend handles real traffic, and security and infrastructure work in harmony.
 
-I genuinely enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team — communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who care deeply — not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion — that's what makes it all matter.
+I truly enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team - communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who care deeply - not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion - that's what makes it all matter.
 
-My north star? Becoming a CTO, Security Engineer, or DevSecOps leader — someone who shapes technical vision and keeps systems secure and performant at scale.
+My north star? Becoming a CTO, Security Engineer, or DevSecOps leader - someone who shapes technical vision and keeps systems secure and performant at scale.
 
 Always learning. Always shipping. Always grinding.
 
