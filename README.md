@@ -6,7 +6,7 @@
 
 Building production web applications, services, and sites from scratch. Telegram Mini Apps with payments, VPN infrastructure & automation with scripts, AI automation & integrations, custom design systems.
 
-[GitHub](https://github.com/Ap3x0s) · [Discord](https://discord.com/users/ap3x0.) · Email: evgenykantor@yandex.ru
+BIO: [🌐 fakecrime.bio/ap3x0](https://fakecrime.bio/ap3x0) · [💬 Discord](https://discord.com/users/ap3x0.) · [📧 Email](mailto:evgenykantor@yandex.ru)
 
 </div>
 
