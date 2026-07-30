@@ -26,7 +26,7 @@ Building production web applications, services, and sites from scratch. Telegram
 <p align="center">
   <a href="https://github.com/heroui-inc/heroui"><img src="./assets/HeroUI.jfif" height="30" alt="HeroUI"></a>
   <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/Phosphor-Icons.png" height="30" alt="Phosphor Icons"></a>
-  <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="SuperP"></a>
+  <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="Super Powers"></a>
   <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
   <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
 </p>
@@ -35,11 +35,9 @@ Building production web applications, services, and sites from scratch. Telegram
 
 I'm a full-stack developer passionate about crafting flawless products that solve real problems. Learning and understanding something new — that's what drives me. Growth isn't optional, it's everything.
 
-I'm genuinely passionate about technology. The entire tech ecosystem fascinates me — from infrastructure and backend systems to sleek, thoughtful design. I love the scale of it all, the complexity, the possibility of creating something that impacts real people. There's something beautiful about automating away the mundane and building systems that just work.
+I'm passionate about technology in all its forms — from infrastructure and backend systems to sleek, thoughtful design. The entire ecosystem fascinates me: the scale, the complexity, the possibility of creating something that impacts real people. I love the entire journey from idea to production, watching a concept transform into a real, breathing product as the design comes to life, the backend handles real traffic, and security and infrastructure work in harmony.
 
-I love the entire journey from idea to production. There's something magical about watching a concept transform into a real, breathing product — the design coming to life, the backend handling real traffic, security and infrastructure working in harmony. I'm fascinated by how all these pieces fit together, and I love being part of that process. It's not just about the work, it's about witnessing the vision become reality.
-
-I genuinely enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team — communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who genuinely care — not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion — that's what makes it all matter.
+I genuinely enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team — communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who care deeply — not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion — that's what makes it all matter.
 
 My north star? Becoming a CTO, Security Engineer, or DevSecOps leader — someone who shapes technical vision and keeps systems secure and performant at scale.
 
