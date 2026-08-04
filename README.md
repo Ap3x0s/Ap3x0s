@@ -5,7 +5,20 @@
 **Full-Stack Developer** | **19 y.o.** | **4 years shipping code** | 
 
 [Me](https://fakecrime.bio/ap3x0) · [Discord](https://discord.com/users/ap3x0.) · [Email](mailto:evgenykantor@yandex.ru)
+
 </div>
+
+## 🛠️ My Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,vite,tailwind,nodejs,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=8" />
+</p>
+<p align="center">
+  <a href="https://github.com/heroui-inc/heroui"><img src="./assets/HeroUI.jfif" height="30" alt="HeroUI"></a>
+  <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/Phosphor-Icons.png" height="30" alt="Phosphor Icons"></a>
+  <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="Super Powers"></a>
+  <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
+  <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
+</p>
 
 ## 🎯 About Me
 
@@ -19,18 +32,6 @@ I really enjoy leading and working alongside talented people. There's a unique e
 
 Always learning. Always shipping. Always grinding.
 
-💬 Languages & Connect
+💬 Languages
 
-Русский (Native) · English (Fluent) · Tech stack speaks for itself.                          Open for collaborations, interesting projects, and dev community engagement.
-## 🛠️ My Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,vite,tailwind,nodejs,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=8" />
-</p>
-<p align="center">
-  <a href="https://github.com/heroui-inc/heroui"><img src="./assets/HeroUI.jfif" height="30" alt="HeroUI"></a>
-  <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/Phosphor-Icons.png" height="30" alt="Phosphor Icons"></a>
-  <a href="https://github.com/obra/superpowers"><img src="./assets/skills/superpowers.svg" height="30" alt="Super Powers"></a>
-  <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
-  <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
-</p>
+Русский (Native) · English (Fluent) · Tech stack speaks for itself
