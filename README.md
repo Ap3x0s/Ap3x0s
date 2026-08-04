@@ -4,8 +4,6 @@
 
 **Full-Stack Developer** | **19 y.o.** | **4 years shipping code** | 
 
-Building production web applications, services, and sites from scratch. Telegram Mini Apps with payments, VPN infrastructure & automation with scripts, AI automation & integrations, custom design systems.
-
 [Me](https://fakecrime.bio/ap3x0) · [Discord](https://discord.com/users/ap3x0.) · [Email](mailto:evgenykantor@yandex.ru)
 
 </div>
@@ -33,14 +31,8 @@ I love the entire journey from idea to production. There's something magical abo
 
 I really enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team - communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who genuinely care — not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion - that's what makes it all matter.
 
-My north star? Becoming a CTO, Security Engineer, or DevSecOps leader - someone who shapes technical vision and keeps systems secure and performant at scale.
-
 Always learning. Always shipping. Always grinding.
 
 💬 Languages
 
 Русский (Native) · English (Fluent) · Tech stack speaks for itself
-
-🔗 Connect
-
-Open for collaborations, interesting projects, and dev community engagement
