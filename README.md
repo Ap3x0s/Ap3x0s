@@ -10,19 +10,11 @@ Building production web applications, services, and sites from scratch. Telegram
 
 </div>
 
-
 ## 🛠️ My Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,vite,tailwind,nodejs,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=8" />
 </p>
-
-**Languages:** TypeScript, JavaScript, Python, C#, C++, SQL  
-**Frontend:** React 19, Next.js 16, Vite 8, Tailwind CSS 4, Framer Motion  
-**Backend:** Node.js (Fastify, Express), FastAPI, Prisma ORM, PostgreSQL, SQLite, Redis, Supabase  
-**Real-time:** Socket.io, WebSocket, BullMQ  
-**Infrastructure:** Docker, systemd, Railway, Vercel
-
 <p align="center">
   <a href="https://github.com/heroui-inc/heroui"><img src="./assets/HeroUI.jfif" height="30" alt="HeroUI"></a>
   <a href="https://github.com/phosphor-icons/homepage"><img src="./assets/Phosphor-Icons.png" height="30" alt="Phosphor Icons"></a>
@@ -52,4 +44,3 @@ Always learning. Always shipping. Always grinding.
 🔗 Connect
 
 Open for collaborations, interesting projects, and dev community engagement
-
