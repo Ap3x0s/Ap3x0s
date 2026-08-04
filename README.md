@@ -7,7 +7,6 @@
 [Me](https://fakecrime.bio/ap3x0) · [Discord](https://discord.com/users/ap3x0.) · [Email](mailto:evgenykantor@yandex.ru)
 
 </div>
-
 ## 🛠️ My Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,react,nextjs,vite,tailwind,nodejs,graphql,postgres,sqlite,redis,prisma,docker,git&theme=dark&perline=8" />
@@ -19,7 +18,6 @@
   <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
   <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd.svg" height="30" alt="GSD Core"></a>
 </p>
-
 ## 🎯 About Me
 
 I'm a full-stack developer passionate about crafting flawless products that solve real problems. Learning and understanding something new - that's what drives me. Growth isn't optional, it's everything.
