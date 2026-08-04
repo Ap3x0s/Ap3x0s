@@ -5,6 +5,7 @@
 **Full-Stack Developer** | **19 y.o.** | **4 years shipping code** | 
 
 [Me](https://fakecrime.bio/ap3x0) · [Discord](https://discord.com/users/ap3x0.) · [Email](mailto:evgenykantor@yandex.ru)
+</div>
 
 ## 🎯 About Me
 
@@ -21,8 +22,6 @@ Always learning. Always shipping. Always grinding.
 💬 Languages & Connect
 
 Русский (Native) · English (Fluent) · Tech stack speaks for itself.                          Open for collaborations, interesting projects, and dev community engagement.
-</div>
-
 ## 🛠️ My Stack
 
 <p align="center">
