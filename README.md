@@ -2,7 +2,7 @@
 
 # Hey, I'm Ap3x0
 
-**Full-Stack Developer** | **19 y.o.** | **4 years shipping code** | 
+**Full-Stack Developer** | **20 y.o.** | **4 years shipping code** | 
 
 [Me](https://fakecrime.bio/ap3x0) · [Discord](https://discord.com/users/ap3x0.) · [Email](mailto:evgenykantor@yandex.ru)
 
