@@ -2,7 +2,7 @@
 
 # Hey, I'm Ap3x0
 
-**Full-Stack Developer** | **20 y.o.** | **5 years shipping code** | 
+**Full-Stack Developer** | **20 y.o.** | **5 years writing code** | 
 
 [Me](https://fakecrime.bio/ap3x0) · [Discord](https://discord.com/users/ap3x0.) · [Email](mailto:evgenykantor@yandex.ru)
 
@@ -30,7 +30,7 @@ I love the entire journey from idea to production. There's something magical abo
 
 I really enjoy leading and working alongside talented people. There's a unique energy in being part of a strong team - communicating and collaborating through challenges, working through the tough moments together, building something meaningful as one unit. Great teams elevate everything: code quality, morale, the final product. What matters most is being surrounded by people who genuinely care — not just about the work, but about the craft, about technology itself. Those shared interests, that mutual passion - that's what makes it all matter.
 
-Always learning. Always shipping. Always grinding.
+Always learning. Always grinding.
 
 💬 Languages
 
